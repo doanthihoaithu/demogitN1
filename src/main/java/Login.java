@@ -1,3 +1,3 @@
 public class Login {
-    public static String name = "Thu";
+   public static String name = "HoaiThu";
 }
